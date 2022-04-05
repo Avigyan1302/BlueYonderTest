@@ -1,4 +1,4 @@
-package com.blueyounder.preassessment;
+package com.by.preassessment;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
