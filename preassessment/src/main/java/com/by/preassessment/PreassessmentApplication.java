@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PreassessmentApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PreassessmentApplication.class, args);
-	}
+		SpringApplication.run(PreassessmentApplication.class, args);}
 
 }
